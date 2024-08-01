@@ -3,52 +3,20 @@
   "WorkspaceRootPath": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\controllers\\clasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\controllers\\clasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\controllers\\clasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\controllers\\clasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.api\\controllers\\clasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|solutionrelative:clases.api\\controllers\\clasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|solutionrelative:clases.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\clases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\clases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\clases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\clases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\clases\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\clases\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\clases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\clases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23EA483-1474-4214-B302-4FB1530C0938}|Clases.Data\\Clases.Data.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.data\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23EA483-1474-4214-B302-4FB1530C0938}|Clases.Data\\Clases.Data.csproj|solutionrelative:clases.data\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\clases.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\clases.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|solutionrelative:clases.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C23EA483-1474-4214-B302-4FB1530C0938}|Clases.Data\\Clases.Data.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.data\\claserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,8 +27,40 @@
       "RelativeMoniker": "D:0:0:{C23EA483-1474-4214-B302-4FB1530C0938}|Clases.Data\\Clases.Data.csproj|solutionrelative:clases.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|solutionrelative:clases.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C23EA483-1474-4214-B302-4FB1530C0938}|Clases.Data\\Clases.Data.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.data\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23EA483-1474-4214-B302-4FB1530C0938}|Clases.Data\\Clases.Data.csproj|solutionrelative:clases.data\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{246B1EF2-1901-4C2F-8771-C4BCD5300120}|Clases.API\\Clases.API.csproj|solutionrelative:clases.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\clases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\clases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\clases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\clases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\clases\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\clases\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\clases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\clases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\clases.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\clases.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|d:\\users\\santiago graneros\\source\\repos\\appwebrest\\clases.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F2921BF-3D51-4FC4-A4AA-E96820DDC94E}|Clases.MVC\\Clases.MVC.csproj|solutionrelative:clases.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\ModeloDTO\\ClaseDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,27 +74,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 238,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Clases.API\\appsettings.json",
+              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\appsettings.json",
+              "RelativeToolTip": "Clases.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T01:11:10.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Clases.MVC\\Program.cs",
+              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Program.cs",
+              "RelativeToolTip": "Clases.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:50:51.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClasesController.cs",
+              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Controllers\\ClasesController.cs",
+              "RelativeDocumentMoniker": "Clases.MVC\\Controllers\\ClasesController.cs",
+              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Controllers\\ClasesController.cs",
+              "RelativeToolTip": "Clases.MVC\\Controllers\\ClasesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:37:42.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\Program.cs",
+              "RelativeDocumentMoniker": "Clases.API\\Program.cs",
+              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\Program.cs",
+              "RelativeToolTip": "Clases.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:11:36.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "Clases.MVC\\appsettings.json",
               "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\appsettings.json",
               "RelativeToolTip": "Clases.MVC\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T00:50:20.625Z"
+              "WhenOpened": "2024-08-01T00:50:20.625Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Clases.Data\\AppDbContext.cs",
@@ -102,31 +163,59 @@
               "RelativeToolTip": "Clases.Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:29:47.849Z"
+              "WhenOpened": "2024-08-01T00:29:47.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ClasesController.cs",
               "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\Controllers\\ClasesController.cs",
               "RelativeDocumentMoniker": "Clases.API\\Controllers\\ClasesController.cs",
               "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\Controllers\\ClasesController.cs",
               "RelativeToolTip": "Clases.API\\Controllers\\ClasesController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:54:02.741Z"
+              "WhenOpened": "2024-08-01T00:54:02.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Index.cshtml",
-              "RelativeDocumentMoniker": "Clases.MVC\\Views\\Clases\\Index.cshtml",
-              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Index.cshtml",
-              "RelativeToolTip": "Clases.MVC\\Views\\Clases\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
+              "DocumentIndex": 6,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.Data\\Clase.cs",
+              "RelativeDocumentMoniker": "Clases.Data\\Clase.cs",
+              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.Data\\Clase.cs",
+              "RelativeToolTip": "Clases.Data\\Clase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:26:48.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaseRepositorio.cs",
+              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.Data\\ClaseRepositorio.cs",
+              "RelativeDocumentMoniker": "Clases.Data\\ClaseRepositorio.cs",
+              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.Data\\ClaseRepositorio.cs",
+              "RelativeToolTip": "Clases.Data\\ClaseRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:30:35.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Details.cshtml",
+              "RelativeDocumentMoniker": "Clases.MVC\\Views\\Clases\\Details.cshtml",
+              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Details.cshtml",
+              "RelativeToolTip": "Clases.MVC\\Views\\Clases\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T00:48:51.532Z"
+              "WhenOpened": "2024-08-01T00:44:25.661Z"
             },
             {
               "$type": "Document",
@@ -142,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Edit.cshtml",
               "RelativeDocumentMoniker": "Clases.MVC\\Views\\Clases\\Edit.cshtml",
@@ -154,92 +243,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Details.cshtml",
-              "RelativeDocumentMoniker": "Clases.MVC\\Views\\Clases\\Details.cshtml",
-              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Details.cshtml",
-              "RelativeToolTip": "Clases.MVC\\Views\\Clases\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAGAAAA",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clases.MVC\\Views\\Clases\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Index.cshtml",
+              "RelativeToolTip": "Clases.MVC\\Views\\Clases\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T00:44:25.661Z"
+              "WhenOpened": "2024-08-01T00:48:51.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Clases.API\\appsettings.json",
-              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\appsettings.json",
-              "RelativeToolTip": "Clases.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T01:11:10.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "Clases.MVC\\Program.cs",
-              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Program.cs",
-              "RelativeToolTip": "Clases.MVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:50:51.708Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClasesController.cs",
-              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Controllers\\ClasesController.cs",
-              "RelativeDocumentMoniker": "Clases.MVC\\Controllers\\ClasesController.cs",
-              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Controllers\\ClasesController.cs",
-              "RelativeToolTip": "Clases.MVC\\Controllers\\ClasesController.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAuwBwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:37:42.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Create.cshtml",
               "RelativeDocumentMoniker": "Clases.MVC\\Views\\Clases\\Create.cshtml",
               "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Clases\\Create.cshtml",
               "RelativeToolTip": "Clases.MVC\\Views\\Clases\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T00:43:40.738Z"
+              "WhenOpened": "2024-08-01T00:43:40.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClaseRepositorio.cs",
-              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.Data\\ClaseRepositorio.cs",
-              "RelativeDocumentMoniker": "Clases.Data\\ClaseRepositorio.cs",
-              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.Data\\ClaseRepositorio.cs",
-              "RelativeToolTip": "Clases.Data\\ClaseRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:30:35.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Clase.cs",
-              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.Data\\Clase.cs",
-              "RelativeDocumentMoniker": "Clases.Data\\Clase.cs",
-              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.Data\\Clase.cs",
-              "RelativeToolTip": "Clases.Data\\Clase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:26:48.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Clases.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -251,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Clases.MVC.csproj",
               "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.MVC\\Clases.MVC.csproj",
               "RelativeDocumentMoniker": "Clases.MVC\\Clases.MVC.csproj",
@@ -260,26 +289,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-01T02:20:05.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\Program.cs",
-              "RelativeDocumentMoniker": "Clases.API\\Program.cs",
-              "ToolTip": "D:\\Users\\Santiago Graneros\\source\\repos\\AppWebRest\\Clases.API\\Program.cs",
-              "RelativeToolTip": "Clases.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T01:11:36.657Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

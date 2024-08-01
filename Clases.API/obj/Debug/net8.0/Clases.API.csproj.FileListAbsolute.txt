@@ -136,3 +136,4 @@ D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.API\obj\Debug\net8.0\r
 D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.API\obj\Debug\net8.0\Clases.API.pdb
 D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.API\obj\Debug\net8.0\Clases.API.genruntimeconfig.cache
 D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.API\obj\Debug\net8.0\ref\Clases.API.dll
+D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.API\obj\Debug\net8.0\Clases.API.sourcelink.json

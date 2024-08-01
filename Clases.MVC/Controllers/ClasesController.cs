@@ -11,7 +11,7 @@ namespace Clases.MVC.Controllers
         public ClasesController(HttpClient httpClient)
         {
             _httpClient = httpClient ?? throw new ArgumentNullException(nameof(httpClient));
-            _httpClient.BaseAddress = new Uri("https://localhost:7008/api/Clases/");
+            _httpClient.BaseAddress = new Uri("https://localhost:7008/api/Clase");
         }
 
         // GET: Clases
@@ -20,13 +20,14 @@ namespace Clases.MVC.Controllers
             var response = await _httpClient.GetAsync("");
             if (!response.IsSuccessStatusCode)
             {
-                return StatusCode((int)response.StatusCode, "Error al obtener las clases.");
+                var errorMessage = await response.Content.ReadAsStringAsync();
+                return StatusCode((int)response.StatusCode, $"Error al obtener las clases: {errorMessage}");
             }
 
             var clases = await response.Content.ReadFromJsonAsync<List<ClaseDTO>>();
             return View(clases);
         }
-        // GET: clases/Details/5
+        // GET: clases/Details/5 
         public async Task<IActionResult> Details(int id)
         {
             var response = await _httpClient.GetAsync($"{id}");

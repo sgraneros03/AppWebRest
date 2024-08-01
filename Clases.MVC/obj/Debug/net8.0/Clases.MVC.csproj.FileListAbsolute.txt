@@ -70,3 +70,4 @@ D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.MVC\obj\Debug\net8.0\r
 D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.MVC\obj\Debug\net8.0\Clases.MVC.pdb
 D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.MVC\obj\Debug\net8.0\Clases.MVC.genruntimeconfig.cache
 D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.MVC\obj\Debug\net8.0\ref\Clases.MVC.dll
+D:\Users\Santiago Graneros\source\repos\AppWebRest\Clases.MVC\obj\Debug\net8.0\Clases.MVC.sourcelink.json

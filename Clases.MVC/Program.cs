@@ -10,7 +10,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddHttpClient<ClasesController>(client =>
 {
-    client.BaseAddress = new Uri("https://localhost:7008/api/Clases"); // URL base de la API
+    client.BaseAddress = new Uri("https://localhost:7008/api/Clase"); // URL base de la API
 });
 var app = builder.Build();
 
